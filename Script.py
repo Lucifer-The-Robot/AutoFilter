@@ -961,7 +961,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     CAPTION = """
 <b>🦋 ᴛɪᴛʟᴇ : {file_name}
 
-Jᴏɪɴ ❤️‍🔥  : 「 <a href='https://telegram.me/Ni_daily_updates'>ɴɪsʜᴀɴᴛ</a> 」
+Jᴏɪɴ ❤️‍🔥  : 「 <a href='https://telegram.me/Ni_daily_updates'>ᴅᴀɪʟʏ ᴜᴘʟᴏᴀᴅ ᴜᴘᴅᴀᴛᴇs</a> 」
 
 » ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Nishant_0786'>ɴɪsʜᴀɴᴛ</a>
 
