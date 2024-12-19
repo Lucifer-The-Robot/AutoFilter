@@ -959,16 +959,15 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
     CAPTION = """
-<b>ᴛɪᴛʟᴇ : {file_name}
+<b>🦋 ᴛɪᴛʟᴇ : {file_name}
 
-𝖩𝗈𝗂𝗇 : 「 @ғᴛᴍʙᴏᴛᴢx 」
+Jᴏɪɴ ❤️‍🔥  : 「 <a href='https://telegram.me/Ni_daily_updates'>ɴɪsʜᴀɴᴛ</a> 」
 
-📥 Uᴘʟᴏᴀᴅᴇᴅ Bʏ 
-
-🔧 Rɪᴘᴘᴇᴅ Bʏ 
+» ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Nishant_0786'>ɴɪsʜᴀɴᴛ</a>
 
 ₪ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/Ni_Movies/161">ɴɪ ᴍᴏᴠɪᴇs</a></b>"""
 
+#
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
 IMDb Data:
