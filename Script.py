@@ -1,22 +1,22 @@
 class script(object):
     START_TXT = """<b>ʜᴇʏ {},
 
-ɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ, ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ
+ɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ᴍᴏᴠɪᴇꜱ & ꜱᴇʀɪᴇꜱ ᴘʀᴏᴠɪᴅᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴍᴀɴʏ ꜰᴇᴀᴛᴜʀᴇꜱ, ᴊᴜsᴛ ꜱᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇꜱ & ꜱᴇʀɪᴇꜱ ɴᴀᴍᴇ.
 
-‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/codeflix_bots'>sᴜʙᴀʀᴜ</a></b>
+‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Nishant_0786'>ɴɪsʜᴀɴᴛ</a></b>
 """
-    GSTART_TXT = """<b>ʜᴇʏ {},\n\nɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.\n\nᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/cryxelys">ᴍɪᴋᴇʏ</a></b>"""
+    GSTART_TXT = """<b>ʜᴇʏ {},\n\nɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ᴍᴏᴠɪᴇꜱ & ꜱᴇʀɪᴇꜱ ᴘʀᴏᴠɪᴅᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴍᴀɴʏ ꜰᴇᴀᴛᴜʀᴇꜱ, ᴊᴜsᴛ ꜱᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇꜱ & ꜱᴇʀɪᴇꜱ ɴᴀᴍᴇ..\n\nᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Nishant_0786'>ɴɪsʜᴀɴᴛ</a></b>"""
     
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ᴀʙᴏᴜᴛ sᴘᴇᴄɪғɪᴄs ᴄᴏᴍᴍᴀɴᴅ!</b>"""
 
     ABOUT_TXT = """
-<b>❍ ᴍʏ ɴᴀᴍᴇ : <a href="https://t.me/Lucy_Filter_bot">ʟᴜᴄʏ ʙᴏᴛ</a>
-❍ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/veldxd">мɪкєʏ</a>
+<b>──「 ʟᴜᴄɪғᴇʀ 」──\n\n❍ ᴍʏ ɴᴀᴍᴇ : <a href="https://t.me/Movies_Lisa_Bot">ʟᴜᴄʏ</a>
+❍ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/Nishant_0786">ɴɪsʜᴀɴᴛ</a>
 ❍ ʟɪʙʀᴀʀʏ : <a href="https://pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ</a>
 ❍ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ</a>
 ❍ ᴅᴀᴛᴀʙᴀꜱᴇ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
 ❍ ʜᴏꜱᴛᴇᴅ ᴏɴ : <a href="https://t.me/codeflix_bots">ᴠᴘs</a>
-❍ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ : ᴠ4.4.1 [ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs]
+❍ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ : ᴠ7.2.1 [ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs]
 
 ➲  ɪ ᴄᴀɴ ʀᴇꜱᴛʀɪᴄᴛ ᴜꜱᴇʀꜱ.
 ➲  ɪ ʜᴀᴠᴇ ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀᴜᴛᴏ-ғɪʟᴛᴇʀ ꜱʏꜱᴛᴇᴍ.
@@ -29,7 +29,7 @@ class script(object):
     SUBSCRIPTION_TXT = """
 <b>ʀᴇғᴇʀʀᴇ ʏᴏᴜʀ ʟɪɴᴋ ᴛᴏ ʏᴏᴜʀ ғʀɪᴇɴᴅs, ғᴀᴍɪʟʏ, ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ ᴛᴏ ɢᴇᴛ ғʀᴇᴇ ᴘʀᴇᴍɪᴜᴍ ғᴏʀ {}
 
-ʀᴇғᴇʀᴀʟ ʟɪɴᴋ - https://telegram.me/{}?start=Lucy-{}
+ʀᴇғᴇʀᴀʟ ʟɪɴᴋ - https://telegram.me/{}?start=Lisa-{}
 
 ɪғ {} ᴜɴɪǫᴜᴇ ᴜsᴇʀ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴡɪᴛʜ ʏᴏᴜʀ ʀᴇғᴇʀᴀʟ ʟɪɴᴋ ᴛʜᴇɴ ʏᴏᴜ ᴡɪʟʟ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴀᴅᴅᴇᴅ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪsᴛ.
 
@@ -40,15 +40,11 @@ class script(object):
 ᴛʜɪs ɪs ʟᴜᴄʏ,
 ᴀɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴀɪ ᴀɴᴅ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴍᴏᴅᴜʟᴇs ʙᴏᴛ.
 
-ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ <a href='https://github.com/pyrogram/pyrogram'>ᴩʏʀᴏɢʀᴀᴍ</a> & <a href='https://github.com/python-telegram-bot/python-telegram-bot'>ᴩʏᴛʜᴏɴ-ᴛᴇʟᴇɢʀᴀᴍ-ʙᴏᴛ</a>  
+ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ <a href='https://github.com/pyrogram/pyrogram'>ᴩʏʀᴏɢʀᴀᴍ</a>
 ᴀɴᴅ ᴜsɪɴɢ ᴀɴᴅ <a href='https://cloud.mongodb.com'>ᴍᴏɴɢᴏ</a> ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 
 » ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://github.com/codeflix-bots/autofilter'>ɢɪᴛʜᴜʙ</a>
-
-
-ʟᴜᴄʏ ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ <a href='https://github.com/Codeflix-Bots/AutoFilter/blob/Lucy-main/LICENSE'>ᴍɪᴛ ʟɪᴄᴇɴsᴇ</a> .
-© 2023 - 2024 | <a href='https://t.me/+DnmZbLjS0iw0YWI1'>sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ</a> , ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 </b>"""
 
     MAIN_TXT = """
@@ -98,7 +94,7 @@ Hᴇʟᴘ : <b>Sᴇᴛᴛɪɴɢꜱ</b>
 
 <b>Nᴏᴛᴇ</b>: ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴍᴏᴅᴇ ᴛᴏ ᴄʜᴀɴɢᴇ ʏᴏᴜʀ ꜰᴏɴᴛꜱ ꜱᴛʏʟᴇ, ᴊᴜꜱᴛ ꜱᴇɴᴅ ᴍᴇ ʟɪᴋᴇ ᴛʜɪꜱ ꜰᴏʀᴍᴀᴛ. 
 
-<code>/font Team Netflix</code>"""
+<code>/font Nishant</code>"""
 
     MANUELFILTER_TXT = """Hᴇʟᴘ : <b>Fɪʟᴛᴇʀꜱ</b>
     
@@ -125,7 +121,7 @@ Hᴇʟᴘ : <b>Sᴇᴛᴛɪɴɢꜱ</b>
 𝟹. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 
 ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ :
-<code>[Button Text](buttonurl:https://t.me/team_netflix)</code>
+<code>[Button Text](buttonurl:https://t.me/Ni_Movies)</code>
 
 ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ :
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
@@ -159,11 +155,11 @@ Hᴇʟᴘ : <b>Sᴇᴛᴛɪɴɢꜱ</b>
 • ᴠɪᴋɪɴɢs sᴇᴀsᴏɴ 𝟷 ❌
 • ᴠɪᴋɪɴɢs ᴡᴇʙ sᴇʀɪᴇs ❌
 
-<b>➙ ᴅᴏɴ'ᴛ ᴅᴏ ᴀɴʏ ꜱᴇʟꜰ ᴘʀᴏᴍᴏᴛɪᴏɴ. 
-➙ ᴅᴏɴ'ᴛ ꜱᴇɴᴅ ᴀɴʏ ᴋɪɴᴅ ᴏꜰ ᴘʜᴏᴛᴏ, ᴠɪᴅᴇᴏ, ᴅᴏᴄᴜᴍᴇɴᴛꜱ, ᴜʀʟ, ᴇᴛᴄ...
-➙ ᴅᴏɴ'ᴛ ʀᴇǫᴜᴇꜱᴛ ᴀɴʏ ᴛʜɪɴɢꜱ ᴏᴛʜᴇʀ ᴛʜᴀɴ ᴍᴏᴠɪᴇꜱ, ꜱᴇʀɪᴇꜱ, ᴀɴɪᴍᴀᴛɪᴏɴ, ᴄᴀʀᴛᴏᴏɴ, ᴀɴɪᴍᴇ, ᴋ-ᴅʀᴀᴍᴀ ᴍᴀɴʏ ᴍᴏʀᴇ.</b>
+<b>» ᴅᴏɴ'ᴛ ᴅᴏ ᴀɴʏ ꜱᴇʟꜰ ᴘʀᴏᴍᴏᴛɪᴏɴ. 
+» ᴅᴏɴ'ᴛ ꜱᴇɴᴅ ᴀɴʏ ᴋɪɴᴅ ᴏꜰ ᴘʜᴏᴛᴏ, ᴠɪᴅᴇᴏ, ᴅᴏᴄᴜᴍᴇɴᴛꜱ, ᴜʀʟ, ᴇᴛᴄ...
+» ᴅᴏɴ'ᴛ ʀᴇǫᴜᴇꜱᴛ ᴀɴʏ ᴛʜɪɴɢꜱ ᴏᴛʜᴇʀ ᴛʜᴀɴ ᴍᴏᴠɪᴇꜱ, ꜱᴇʀɪᴇꜱ, ᴀɴɪᴍᴀᴛɪᴏɴ, ᴄᴀʀᴛᴏᴏɴ, ᴀɴɪᴍᴇ, ᴋ-ᴅʀᴀᴍᴀ ᴍᴀɴʏ ᴍᴏʀᴇ.</b>
 
-🔰 <b>Nᴏᴛᴇ :</b> ᴀʟʟ ᴍᴇꜱꜱᴀɢᴇꜱ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏ-ᴅᴇʟᴇᴛᴇᴅ ᴀꜰᴛᴇʀ 𝟷𝟶 ᴍɪɴᴜᴛᴇꜱ ᴛᴏ ᴀᴠᴏɪᴅ ᴄᴏᴘʏʀɪɢʜᴛ ɪꜱꜱᴜᴇꜱ."""
+⚙️ <b>Nᴏᴛᴇ :</b> ᴀʟʟ ᴍᴇꜱꜱᴀɢᴇꜱ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏ-ᴅᴇʟᴇᴛᴇᴅ ᴀꜰᴛᴇʀ 𝟷𝟶 ᴍɪɴᴜᴛᴇꜱ ᴛᴏ ᴀᴠᴏɪᴅ ᴄᴏᴘʏʀɪɢʜᴛ ɪꜱꜱᴜᴇꜱ."""
 
     CONNECTION_TXT = """Hᴇʟᴘ : <b>Cᴏɴɴᴇᴄᴛɪᴏɴꜱ</b>
     
@@ -247,7 +243,7 @@ Hᴇʟᴘ : <b>Sᴇᴛᴛɪɴɢꜱ</b>
 
 ʏᴏᴜ ᴄᴀɴ ꜰɪɴᴅ ᴏᴜᴛ ᴛʜᴇ ᴛᴀɢs ᴏꜰ ᴀɴʏ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏ ᴡɪᴛʜ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ
 
-➤  𝐂𝐨𝐦𝐦𝐚𝐧𝐝 :
+➤  ᴄᴏᴍᴍᴀɴᴅs :
 
 /yttags - Reply to a YouTube video</b>"""
 
@@ -270,12 +266,12 @@ Hᴇʟᴘ : <b>Sᴇᴛᴛɪɴɢꜱ</b>
 ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ʜᴇʟᴘs ʏᴏᴜ ᴛᴏ ʀᴇᴘᴏʀᴛ ᴀ ᴍᴇssᴀɢᴇ ᴏʀ ᴀ ᴜsᴇʀs ᴛᴏ ᴛʜᴇ ᴀᴅᴍɪɴs ᴏꜰ ᴛʜᴇ ʀᴇsᴘᴇᴄᴛɪᴠᴇ ɢʀᴏᴜᴘ
 
 
-➤  𝐂𝐨𝐦𝐦𝐚𝐧𝐝 :
+➤  ᴄᴏᴍᴍᴀɴᴅs :
 
 /report 𝗈𝗋 @admin - 𝖳𝗈 𝗋𝖾𝗉𝗈𝗋𝗍 𝖺 𝗎𝗌𝖾𝗋 𝗍𝗈 𝗍𝗁𝖾 𝖺𝖽𝗆𝗂𝗇𝗌 (𝗋𝖾𝗉𝗅𝗒 𝗍𝗈 𝖺 𝗆𝖾𝗌𝗌𝖺𝗀𝖾).</b>"""
 
     MIKEY = """
-<b>This is Lucy bot 🦚,
+<b>This is Lucy bot ,
 A powerful stable and cute telegram Auto filter bot and management bot.</b>"""
 
     GEN_PASS = """<b>ᴘᴀssᴡᴏʀᴅ ɢᴇɴᴇʀᴀᴛᴏʀ</b>
@@ -284,7 +280,7 @@ There Is Nothing To Know More. Send Me The Limit Of Your Password.
 
 - I Will Give The Password Of That Limit.
 
-➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝:
+➤ ᴄᴏᴍᴍᴀɴᴅ :
 
 • /genpassword or /genpw 20
 
