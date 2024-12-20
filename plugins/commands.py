@@ -96,13 +96,13 @@ async def start(client, message):
             gtxt = "ɢᴏᴏᴅ ᴇᴠᴇɴɪɴɢ 👋"
         else:
             gtxt = "ɢᴏᴏᴅ ɴɪɢʜᴛ 👋"
-        m=await message.reply_text("<b><i>ᴡᴇʟᴄᴏᴍᴇ</i></b>")
+        m=await message.reply_text("ʜᴇʟʟᴏ, ʜᴏᴡ ᴀʀᴇ ʏᴏᴜ \nᴡᴀɪᴛ ᴀ ᴍᴏᴍᴇɴᴛ. . .")
         await asyncio.sleep(0.4)
-        await m.edit_text("👻")
+        await m.edit_text("🎊")
         await asyncio.sleep(0.5)
-        await m.edit_text("🦋")
+        await m.edit_text("⚡")
         await asyncio.sleep(0.5)
-        await m.edit_text("<b><i>ꜱᴛᴀʀᴛɪɴɢ...</i></b>")
+        await m.edit_text("ꜱᴛᴀʀᴛɪɴɢ...")
         await asyncio.sleep(0.4)
         await m.delete()        
         m=await message.reply_sticker("CAACAgQAAxkBAAEKeqNlIpmeUoOEsEWOWEiPxPi3hH5q-QACbg8AAuHqsVDaMQeY6CcRojAE") 
@@ -176,13 +176,13 @@ async def start(client, message):
             gtxt = "ɢᴏᴏᴅ ᴇᴠᴇɴɪɴɢ 👋"
         else:
             gtxt = "ɢᴏᴏᴅ ɴɪɢʜᴛ 👋"
-         m=await message.reply_text("<b><i>ᴡᴇʟᴄᴏᴍᴇ</i></b>")
+        m=await message.reply_text("ʜᴇʟʟᴏ, ʜᴏᴡ ᴀʀᴇ ʏᴏᴜ \nᴡᴀɪᴛ ᴀ ᴍᴏᴍᴇɴᴛ. . .")
         await asyncio.sleep(0.4)
-        await m.edit_text("👻")
+        await m.edit_text("🎊")
         await asyncio.sleep(0.5)
-        await m.edit_text("🦋")
+        await m.edit_text("⚡")
         await asyncio.sleep(0.5)
-        await m.edit_text("<b><i>ꜱᴛᴀʀᴛɪɴɢ...</i></b>")
+        await m.edit_text("ꜱᴛᴀʀᴛɪɴɢ...")
         await asyncio.sleep(0.4)
         await m.delete()        
         m=await message.reply_sticker("CAACAgQAAxkBAAEKeqNlIpmeUoOEsEWOWEiPxPi3hH5q-QACbg8AAuHqsVDaMQeY6CcRojAE") 
